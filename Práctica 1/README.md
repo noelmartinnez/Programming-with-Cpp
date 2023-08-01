@@ -1,0 +1,2 @@
+Esta primera práctica es una app de gestión de proyectos, donde puedes crear un proyecto, añadirle diferentes listas y dentro de cada lista se pueden crear infinidad de tareas
+con una fecha de creación de la tarea, si está terminada o no, y la cantidad de minutos que ha tomado hacerla. También se dispone de un botón para cambiar de estado una tarea concreta y un botón para mostrar un resumen de todo el contenido del proyecto.
